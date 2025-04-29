@@ -110,7 +110,7 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 - Thanks to the open-source community for the inspiration that helped in the development of this agent.
 - Special thanks to anyone who has contributed to similar projects or provided feedback.
 
-## TODO (Optional)
+## TODO
 
 - Implement more advanced mutation options.
 - Make it more robust to invalid arguments and the like.
