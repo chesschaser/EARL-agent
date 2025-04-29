@@ -28,6 +28,7 @@ Here’s an example of how to use the `EARL_Agent` class:
 
 ```python
 from earl import EARL_Agent, save_agent, load_agent
+import os
 
 class NumberGameEnvironment:
     def __init__(self):
@@ -77,7 +78,11 @@ class NumberGameEnvironment:
         print("Timeout!")
             
 env = NumberGameEnvironment()
-env.solve()
+
+if os.path.exists("earl.pkl"):
+    env.solve()
+else:
+    env.train()
 ```
 
 ## How It Works
