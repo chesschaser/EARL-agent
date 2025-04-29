@@ -1,7 +1,7 @@
 
 # EARL: Evolutionary Adaptive Reinforcement Learner
 
-EARL (Evolutionary Adaptive Reinforcement Learner) is a lightweight reinforcement learning agent that evolves its action probabilities based on feedback from a fitness function. By using strategies such as probabilistic action selection, weight mutation, and history bias, EARL adapts its action-selection strategy over time to maximize performance.
+EARL (Evolutionary Adaptive Reinforcement Learner) is a lightweight reinforcement learning agent that evolves its action probabilities based on feedback from a fitness function. It adapts its action-selection strategy over time to maximize performance.
 
 ## Features
 
