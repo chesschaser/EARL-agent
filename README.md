@@ -114,6 +114,6 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 - Implement more advanced mutation options.
 - Make it more robust to invalid arguments and the like.
-- Expand the action space to support more complex actions (non-binary).
+- Expand the algorithm to support more complex actions (non-binary).
 
 ---
